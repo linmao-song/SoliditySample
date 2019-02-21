@@ -1,4 +1,4 @@
-# SoliditySample
+# Example of a car insurance application coded in Solidity
 </br>
 This repository hosts a Solidity 
 implementation of a car insurance 
@@ -9,8 +9,8 @@ blockchain.
 
 The implementation is only an skeleton, as
 opposed to a complete implementation, built
-for evaluation purpuses. It is meant to 
-complement the report *Smart Contracts Deployed
+for evaluation purposes. It is meant to 
+complement the technical report *Smart Contracts Deployed
 on Trusted Third Parties are not a Bad Idea*
 that we will publish somewhere else.
 
@@ -52,7 +52,7 @@ offers to potential customers is described below.
 4) Bob consults with his validator (Valia) the legality of 
    the claim (see validation operation).
 
-5) Valia declares either valid or invalid
+5) Valia declares either valid or invalid.
 
 6) On the basis of Valia’s verdict, Bob proceeds to either 
    pay or refuse the claim within 24 hours of the submission 
@@ -70,7 +70,7 @@ figure below.
 </p>
 
 # 2.- Deployment
-We have compiled and deployed the smart contract at 
+We have compiled the smart contract and deployed it at 
 the 0xb3C66fA11af5b4975D74C654665A0b7E505b2bDe address. 
 
 # 3.- Contributors
