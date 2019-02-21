@@ -17,6 +17,8 @@ that we will publish somewhere else.
  
 
 # 1.- Car insurance scenario
+The legal contract that the the insurance company
+offers to potential customers is described below.
 
 ```
 1) Alice submits a Purchase Order (PO) request to Bob 
@@ -67,8 +69,11 @@ figure below.
    width="500" title="Car insurance architecture.">
 </p>
 
+# 2.- Deployment
+We have compiled and deployed the smart contract at 
+the 0xb3C66fA11af5b4975D74C654665A0b7E505b2bDe address. 
 
-# 2. Contributors
+# 3.- Contributors
 
 *  **Linmao Song:** he is the main contact and an independent 
    researcher. Linmao replies (normally within 48 hours) to 
