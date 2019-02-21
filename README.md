@@ -70,6 +70,6 @@ figure below.
 
 # 2. Contributors
 
-*  Linmao Song, he is an independent research the
-   main contact and reachable
-   at Linmao.Song@gmail.com.
+*  **Linmao Song:** he is the main contact and an independent 
+   researcher. Linmao replies (normally within 48 hours) to 
+   emails sent to Linmao.Song@gmail.com
