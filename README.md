@@ -64,11 +64,12 @@ figure below.
 
 <p align="center">
   <img src="./figures/carinsurancesmartcontractarch.png" 
-   width="900" title="Car insurance architecture.">
+   width="500" title="Car insurance architecture.">
 </p>
 
 
 # 2. Contributors
 
-*  Linmao Song, he is an independent research reachable
+*  Linmao Song, he is an independent research the
+   main contact and reachable
    at Linmao.Song@gmail.com.
